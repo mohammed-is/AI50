@@ -7,7 +7,7 @@ After finishing harvard university's [CS50](https://pll.harvard.edu/course/cs50-
 ### Lecture 0 - Search
 
 - [Degrees](0_search/degrees/degrees.py)
-- [Tic-Tac-Toe](incomplete)
+- [Tic-Tac-Toe](0_search/tictactoe/tictactoe.py)
 
 ### Lecture 1 - Knowledge
 
