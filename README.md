@@ -12,7 +12,7 @@ After finishing harvard university's [CS50](https://pll.harvard.edu/course/cs50-
 ### Lecture 1 - Knowledge
 
 - [Knights](1_knowledge/knights/puzzle.py)
-- [Minesweeper](incomplete)
+- [Minesweeper](1_knowledge/minesweeper/minesweeper.py)
 
 ### Lecture 2 - Uncertainty
 
