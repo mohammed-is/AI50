@@ -16,7 +16,7 @@ After finishing harvard university's [CS50](https://pll.harvard.edu/course/cs50-
 
 ### Lecture 2 - Uncertainty
 
-- [PageRank](incomplete)
+- [PageRank](2_uncertainty/pagerank/pagerank.py)
 - [Heredity](incomplete)
 
 ### Lecture 3 - Optimization
