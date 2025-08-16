@@ -21,7 +21,7 @@ After finishing harvard university's [CS50](https://pll.harvard.edu/course/cs50-
 
 ### Lecture 3 - Optimization
 
-- [Crossword](incomplete)
+- [Crossword](/3_optimization/crossword/generate.py)
 
 ### Lecture 4 - Learning
 
