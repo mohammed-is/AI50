@@ -11,7 +11,6 @@ TEST_SIZE = 0.4
 def main():
 
     # Check command-line arguments
-    sys.argv.append("4_learning/shopping/shopping.csv")
     if len(sys.argv) != 2:
         sys.exit("Usage: python shopping.py data")
 
@@ -94,7 +93,10 @@ def load_data(filename):
     ]].astype(int) 
     
     # return evidence, labels
-    return (data.drop("Revenue", axis=1), data["Revenue"])
+    return (
+        data.drop("Revenue", axis=1).to_numpy(object),
+        data["Revenue"].to_numpy(dtype=int)
+    )
 
     
 
