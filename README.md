@@ -26,7 +26,7 @@ After finishing harvard university's [CS50](https://pll.harvard.edu/course/cs50-
 ### Lecture 4 - Learning
 
 - [Shopping](/4_learning/shopping/shopping.py)
-- [Nim](incomplete)
+- [Nim](/4_learning/nim/nim.py)
 
 ### Lecture 5 - Neural Networks
 
