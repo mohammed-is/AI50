@@ -30,7 +30,7 @@ After finishing harvard university's [CS50](https://pll.harvard.edu/course/cs50-
 
 ### Lecture 5 - Neural Networks
 
-- [Traffic](incomplete)
+- [Traffic](/5_neural_networks/traffic.py)
 
 ### Lecture 6 - Language
 
